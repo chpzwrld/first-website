@@ -1,0 +1,38 @@
+.banner{
+    background-color: aliceblue;
+    color: royalblue; 
+    text-align: left;
+    padding-bottom: -50px;
+}
+
+.intro{
+    padding-left: 20px;
+    line-height: 0.6;
+}
+
+.portfolio{
+    padding-top: 10 px;
+    padding-left: 40px;
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.heading{
+    display: block;
+    padding-left: 20px;
+    font-size: 11;
+    color: white; 
+    font-family:'Space Grotesk', sans-serif; 
+}
+
+.heading span{
+    background-color: black;
+}
+
+.response{
+    padding-left: 20px;
+    font-family: 'Space Grotesk', sans-serif; 
+    font-weight: 550;
+    font-size: 18;
+}
+
